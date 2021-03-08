@@ -63,6 +63,7 @@ html {
   h3{
     font-size: 25px; 
     font-weight: 300;
+     margin-left: 70px;
   }
   .skills_items{
     display: flex;
